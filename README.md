@@ -21,7 +21,7 @@
 </div>
 
 
-### :woman_technologist: About Me : I am full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :woman_technologist: About Me :I am a front End Developer and  create some projects during my learning  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-1243bb231/)
 
 
