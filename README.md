@@ -7,7 +7,7 @@
   </a>
    <a href="">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Twitter Badge"/>
-  </a>
+ // </a>
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Adityaprajapati26&style=flat-square&color=blue" alt="Name"/>>
@@ -17,7 +17,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
 
 
