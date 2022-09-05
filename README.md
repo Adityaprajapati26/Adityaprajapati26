@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/aditya-kumar-1243bb231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="">
+   <a href="https://aditya-kumarportfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Twitter Badge"/>
- // </a>
+  </a>
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Adityaprajapati26&style=flat-square&color=blue" alt="Name"/>>
