@@ -1,4 +1,5 @@
 <div id="header" align="center">
+<h1>Aditya Kumar  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -11,17 +12,13 @@
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Adityaprajapati26&style=flat-square&color=blue" alt="Name"/>>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
 
 
-### :woman_technologist: About Me :I am a front End Developer and  create some projects during my learning  and have some Assignments to shine my Tech Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :woman_technologist: About Me :I am a full Stack Developer and  create some projects during my learning  and have some Assignments to shine my Tech Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-1243bb231/)
 
 
