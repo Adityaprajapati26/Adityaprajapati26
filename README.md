@@ -37,8 +37,7 @@
   <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" title="Express" alt="express" width="50" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="typescript" width="50" height="40"/>&nbsp;
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" alt="Postman" width="50" height="40"/>&nbsp;
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="nodejs" width="50" height="40"/>
   
 </div>
 
